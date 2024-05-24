@@ -12,4 +12,4 @@ There are deep learning notebooks and notebooks with basic dl libraries in this 
 
 
 ### Random Forest from scratch
-There is also a report of the university project attached. In this project we built efficient Random Forest models from scratch in java to solve a complex regression problem. Theoretical aspects of statistics behind Random Forest is discussed in the report, as well as the most efficient implementation for our specific task. 
+There is also a report of the university project attached. In this project we built efficient Random Forest models from scratch in java to solve a complex regression problem of predicting students grades. The complexity was due to the diffrence between available features for various students. Theoretical aspects of statistics behind Random Forest is discussed in the report, as well as the most efficient implementation for our specific task. 
